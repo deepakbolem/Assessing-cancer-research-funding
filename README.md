@@ -3,11 +3,11 @@ Assessing if government research funding meets the need in terms of fiscal burde
 
 Areas where I concentrated on addressing business problems.
 
-##1) What is the financial implication of cancer treatment across the (i) US states and (ii) for different cancer types/phases?##
+1) What is the financial implication of cancer treatment across the (i) US states and (ii) for different cancer types/phases?
 
-##2) Which ethnic groups are most susceptible to cancer challenges?##
+2) Which ethnic groups are most susceptible to cancer challenges?
 
-##3) What is the relationship between the government’s cancer research funding and patient’s out-of-pocket cost?##
+3) What is the relationship between the government’s cancer research funding and patient’s out-of-pocket cost?
 
 Reason for picking this topic and question(s)
 
