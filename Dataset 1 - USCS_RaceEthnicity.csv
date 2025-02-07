@@ -1,0 +1,487 @@
+CancerType,Year,Race,Sex,AgeGroup,RateType,DataType,Rate,Count,Population
+Other Female Genital Organs,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.9,4199,165096351
+Nasopharynx,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.5,1880,325239182
+Larynx,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.9,12077,325239182
+Non-Hodgkin Lymphoma,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,18.1,71575,325239182
+Other Biliary,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.6,6613,325239182
+Salivary Gland,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.3,4851,325239182
+Testis,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,5.6,8743,160142831
+Trachea Mediastinum and Other Respiratory Organs,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.2,605,325239182
+Myeloma,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,6.8,27825,325239182
+Oropharynx,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.8,3471,325239182
+Other Non-Epithelial Skin,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.6,6325,325239182
+Lip,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.4,1689,325239182
+Male and Female Breast,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,69.0,266483,325239182
+Miscellaneous,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,15.1,60408,325239182
+Other Oral Cavity and Pharynx,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.1,605,325239182
+Leukemias,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,13.2,50627,325239182
+Other Digestive Organs,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.7,2751,325239182
+Ureter,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.5,2180,325239182
+Uterus NOS,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.0,2144,165096351
+Male and Female Breast in situ,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,15.6,59554,325239182
+Penis,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.8,1494,160142831
+Peritoneum Omentum and Mesentery,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.5,1961,325239182
+Tongue,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,3.8,15501,325239182
+Kidney and Renal Pelvis,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,17.2,68047,325239182
+Mesothelioma,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.7,2911,325239182
+Urinary System,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,36.4,146808,325239182
+Kidney and Renal Pelvis,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,16.4,689,4781187
+Lung and Bronchus,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,52.9,221097,325239182
+Ovary,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,9.6,19571,165096351
+Other Urinary Organs,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.4,1559,325239182
+Soft Tissue including Heart,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,3.3,11930,325239182
+Urinary Bladder,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,18.3,75022,325239182
+Vagina,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.6,1368,165096351
+Other Male Genital Organs,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.2,408,160142831
+Respiratory System,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,56.6,236402,325239182
+Retroperitoneum,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.4,1648,325239182
+Pancreas,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,13.2,54076,325239182
+Skin excluding Basal and Squamous,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,24.3,94384,325239182
+Vulva,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.6,5579,165096351
+Nose Nasal Cavity and Middle Ear,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.6,2517,325239182
+Pleura,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.0,106,325239182
+Small Intestine,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.5,9937,325239182
+Bones and Joints,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.5,23,4781187
+Liver and Intrahepatic Bile Duct,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,8.4,35563,325239182
+Oral Cavity and Pharynx,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,11.8,47813,325239182
+Other Endocrine including Thymus,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.8,2841,325239182
+Thyroid,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,13.1,45311,325239182
+Corpus and Uterus NOS,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,17.8,395,2385217
+Gallbladder,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.1,39,4781187
+Colon and Rectum,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,27.0,1071,4781187
+Colon excluding Rectum,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,18.7,719,4781187
+Nasopharynx,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.4,16,4781187
+All Sites (comparable to ICD-O-2),2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,264.9,10654,4781187
+Cervix,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,5.8,124,2385217
+Brain and Other Nervous System,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,3.2,140,4781187
+Lung and Bronchus,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,37.3,1420,4781187
+Ovary,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,6.2,131,2385217
+Brain,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,3.1,134,4781187
+Chronic Lymphocytic,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.3,50,4781187
+Digestive System,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,60.6,2407,4781187
+Female Breast,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,73.1,1580,2385217
+Female Genital System,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,33.4,728,2385217
+Lip,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,Data Suppressed,Data Suppressed,Data Suppressed
+Male and Female Breast in situ,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,6.0,251,4781187
+Penis,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,Data Suppressed,Data Suppressed,Data Suppressed
+Peritoneum Omentum and Mesentery,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,Data Suppressed,Data Suppressed,Data Suppressed
+Tongue,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.9,80,4781187
+Other Oral Cavity and Pharynx,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,Data Suppressed,Data Suppressed,Data Suppressed
+Soft Tissue including Heart,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.0,84,4781187
+Urinary Bladder,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,7.9,282,4781187
+Vagina,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,Data Suppressed,Data Suppressed,Data Suppressed
+Floor of Mouth,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,Data Suppressed,Data Suppressed,Data Suppressed
+Gum and Other Mouth,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.9,39,4781187
+Hypopharynx,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.7,27,4781187
+Other Female Genital Organs,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.5,34,2385217
+Other Urinary Organs,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,Data Suppressed,Data Suppressed,Data Suppressed
+Pancreas,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,8.6,338,4781187
+Skin excluding Basal and Squamous,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,5.9,237,4781187
+Vulva,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.8,37,2385217
+Tonsil,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.3,9315,325239182
+Myeloma,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,4.3,172,4781187
+Oropharynx,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.5,21,4781187
+Other Non-Epithelial Skin,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.6,23,4781187
+Tonsil,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.3,61,4781187
+Larynx,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.2,88,4781187
+Non-Hodgkin Lymphoma,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,10.3,404,4781187
+Other Biliary,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.5,59,4781187
+Salivary Gland,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.5,20,4781187
+Testis,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,4.0,94,2395970
+Trachea Mediastinum and Other Respiratory Organs,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,Data Suppressed,Data Suppressed,Data Suppressed
+Acute Lymphocytic,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.2,58,4781187
+Lymphomas,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,20.7,80100,325239182
+Male Genital System,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,118.3,235378,160142831
+Melanomas of the Skin,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,22.7,88059,325239182
+Anus Anal Canal and Anorectum,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.1,47,4781187
+Chronic Myeloid,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.2,50,4781187
+Endocrine System,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,7.7,333,4781187
+Lymphomas,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,11.3,450,4781187
+Liver and Intrahepatic Bile Duct,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,10.5,434,4781187
+Oral Cavity and Pharynx,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,6.7,289,4781187
+Other Endocrine including Thymus,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.4,19,4781187
+Thyroid,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,7.2,314,4781187
+Acute Myeloid,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.3,93,4781187
+Hodgkin Lymphoma,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.0,46,4781187
+Other Male Genital Organs,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,Data Suppressed,Data Suppressed,Data Suppressed
+Respiratory System,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,40.1,1532,4781187
+Retroperitoneum,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,Data Suppressed,Data Suppressed,Data Suppressed
+Mesothelioma,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.4,16,4781187
+Urinary System,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,24.6,981,4781187
+Stomach,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,6.1,24382,325239182
+Male and Female Breast,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,38.5,1587,4781187
+Cranial Nerves and Other Nervous System,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,Data Suppressed,Data Suppressed,Data Suppressed
+Kaposi Sarcoma,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,Data Suppressed,Data Suppressed,Data Suppressed
+Leukemias,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,7.0,289,4781187
+Other Digestive Organs,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,Data Suppressed,Data Suppressed,Data Suppressed
+Other Leukemias,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.4,5456,325239182
+Prostate,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,111.6,224733,160142831
+Rectum and Rectosigmoid Junction,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,10.9,42123,325239182
+Corpus,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,16.8,376,2385217
+Eye and Orbit,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.5,22,4781187
+Nose Nasal Cavity and Middle Ear,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.6,22,4781187
+Pleura,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,Data Suppressed,Data Suppressed,Data Suppressed
+Small Intestine,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.3,54,4781187
+Corpus and Uterus NOS,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,21.5,2668,11316721
+Gallbladder,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.3,272,21796562
+Liver and Intrahepatic Bile Duct,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,11.4,2484,21796562
+Oral Cavity and Pharynx,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,7.9,1758,21796562
+Kidney and Renal Pelvis,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,7.9,1740,21796562
+Bones and Joints,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.8,161,21796562
+Corpus,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,20.7,2569,11316721
+Eye and Orbit,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.2,42,21796562
+Nose Nasal Cavity and Middle Ear,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.5,122,21796562
+Pleura,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,Data Suppressed,Data Suppressed,Data Suppressed
+Small Intestine,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.3,284,21796562
+Brain,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,3.2,687,21796562
+Chronic Lymphocytic,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.9,196,21796562
+Digestive System,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,65.9,14187,21796562
+Acute Myeloid,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,3.3,704,21796562
+Hodgkin Lymphoma,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.3,298,21796562
+Floor of Mouth,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.2,45,21796562
+Gum and Other Mouth,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.7,369,21796562
+Ureter,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,Data Suppressed,Data Suppressed,Data Suppressed
+Uterus NOS,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.0,19,2385217
+All Sites (comparable to ICD-O-2),2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,282.7,61760,21796562
+Cervix,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,5.7,686,11316721
+Larynx,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.0,208,21796562
+Non-Hodgkin Lymphoma,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,12.5,2702,21796562
+Other Biliary,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.2,445,21796562
+Salivary Gland,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.9,204,21796562
+Testis,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.1,241,10479841
+Trachea Mediastinum and Other Respiratory Organs,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.1,34,21796562
+Colon and Rectum,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,28.0,6072,21796562
+Colon excluding Rectum,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,18.0,3874,21796562
+Nasopharynx,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.9,434,21796562
+Other Oral Cavity and Pharynx,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,Data Suppressed,Data Suppressed,Data Suppressed
+Soft Tissue including Heart,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.4,529,21796562
+Urinary Bladder,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,7.7,1588,21796562
+Vagina,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.4,44,11316721
+Other Male Genital Organs,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.2,22,10479841
+Respiratory System,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,34.7,7378,21796562
+Retroperitoneum,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.3,62,21796562
+Hypopharynx,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.3,71,21796562
+Other Female Genital Organs,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.6,202,11316721
+Other Urinary Organs,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.2,48,21796562
+Pancreas,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,9.4,1975,21796562
+Skin excluding Basal and Squamous,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.9,416,21796562
+Vulva,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.0,119,11316721
+Brain and Other Nervous System,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,3.4,734,21796562
+Lung and Bronchus,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,33.1,7007,21796562
+Ovary,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,8.7,1055,11316721
+Myeloma,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,3.9,843,21796562
+Oropharynx,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.2,53,21796562
+Other Non-Epithelial Skin,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.8,163,21796562
+Tonsil,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.5,114,21796562
+Female Breast,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,103.1,12486,11316721
+Female Genital System,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,39.0,4774,11316721
+Lip,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.1,21,21796562
+Male and Female Breast in situ,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,17.4,3893,21796562
+Penis,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.4,41,10479841
+Peritoneum Omentum and Mesentery,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.3,63,21796562
+Tongue,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.0,441,21796562
+Other Endocrine including Thymus,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.9,191,21796562
+Thyroid,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,14.5,3282,21796562
+All Sites (comparable to ICD-O-2),2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,422.6,191978,46436481
+Cervix,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,8.2,1972,24137605
+Male Genital System,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,58.8,1116,2395970
+Melanomas of the Skin,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,5.3,214,4781187
+Anus Anal Canal and Anorectum,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.5,115,21796562
+Chronic Myeloid,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.0,225,21796562
+Endocrine System,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,15.4,3473,21796562
+Lymphomas,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,13.8,3000,21796562
+Male Genital System,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,60.1,5927,10479841
+Melanomas of the Skin,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.2,253,21796562
+Miscellaneous,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,10.6,378,4781187
+Stomach,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,5.1,198,4781187
+Bones and Joints,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.8,370,46436481
+Cranial Nerves and Other Nervous System,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.2,47,21796562
+Kaposi Sarcoma,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.1,25,21796562
+Leukemias,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,7.3,1565,21796562
+Other Digestive Organs,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.5,111,21796562
+Ureter,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.6,132,21796562
+Uterus NOS,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.8,99,11316721
+Colon and Rectum,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,39.8,17614,46436481
+Colon excluding Rectum,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,29.4,12898,46436481
+Nasopharynx,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.6,278,46436481
+Other Oral Cavity and Pharynx,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.1,64,46436481
+Soft Tissue including Heart,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,3.3,1474,46436481
+Urinary Bladder,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,10.8,4563,46436481
+Mesothelioma,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.3,63,21796562
+Urinary System,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,16.4,3508,21796562
+Kidney and Renal Pelvis,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,18.4,8432,46436481
+Mesothelioma,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.4,160,46436481
+Urinary System,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,29.9,13282,46436481
+Vagina,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.9,213,24137605
+Corpus,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,26.1,7002,24137605
+Eye and Orbit,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.3,122,46436481
+Nose Nasal Cavity and Middle Ear,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.6,248,46436481
+Pleura,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,Data Suppressed,Data Suppressed,Data Suppressed
+Small Intestine,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,3.9,1764,46436481
+Male and Female Breast,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,56.4,12550,21796562
+All Cancer Sites Combined,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,268.7,10792,4781187
+Esophagus,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,3.4,133,4781187
+Other Leukemias,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.0,38,4781187
+Prostate,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,54.0,1007,2395970
+Rectum and Rectosigmoid Junction,2019,American Indian/Alaska Native,Male and Female, All Ages,Age-adjusted Rate,Incidence,8.3,352,4781187
+Bones and Joints,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.0,541,59496798
+Corpus,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,25.6,6396,29481430
+Miscellaneous,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,8.4,1751,21796562
+Stomach,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,8.7,1863,21796562
+Male and Female Breast,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,71.0,31634,46436481
+Miscellaneous,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,14.5,6121,46436481
+Stomach,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,9.0,3895,46436481
+Myeloma,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,13.5,5939,46436481
+Oropharynx,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.7,332,46436481
+Other Non-Epithelial Skin,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.9,389,46436481
+Tonsil,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.4,649,46436481
+Colon and Rectum,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,32.0,14083,59496798
+Colon excluding Rectum,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,22.0,9470,59496798
+Nasopharynx,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.4,182,59496798
+Other Oral Cavity and Pharynx,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.1,49,59496798
+Soft Tissue including Heart,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,3.1,1542,59496798
+Urinary Bladder,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,10.3,3962,59496798
+Vagina,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.6,146,29481430
+Larynx,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,3.6,1730,46436481
+Non-Hodgkin Lymphoma,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,13.1,5834,46436481
+Other Biliary,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.6,696,46436481
+Salivary Gland,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.3,566,46436481
+Testis,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.5,322,22298876
+Trachea Mediastinum and Other Respiratory Organs,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.1,51,46436481
+Brain,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,3.6,1655,46436481
+Chronic Lymphocytic,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.7,1180,46436481
+Acute Myeloid,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,3.6,1561,46436481
+Hodgkin Lymphoma,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.5,1141,46436481
+Other Male Genital Organs,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.2,33,22298876
+Digestive System,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,88.1,39402,46436481
+Female Breast,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,125.4,31302,24137605
+Female Genital System,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,48.2,12472,24137605
+Lip,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.1,36,46436481
+Male and Female Breast in situ,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,17.6,8063,46436481
+Penis,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.7,132,22298876
+Peritoneum Omentum and Mesentery,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.4,166,46436481
+Tongue,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.7,826,46436481
+Respiratory System,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,57.8,25886,46436481
+Retroperitoneum,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.4,201,46436481
+All Sites (comparable to ICD-O-2),2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,338.9,150817,59496798
+Cervix,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,9.7,2486,29481430
+Larynx,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.1,910,59496798
+Non-Hodgkin Lymphoma,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,16.9,7378,59496798
+Brain,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,4.9,2423,59496798
+Chronic Lymphocytic,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.0,789,59496798
+Digestive System,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,77.6,33254,59496798
+Floor of Mouth,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.4,185,46436481
+Gum and Other Mouth,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.2,557,46436481
+Hypopharynx,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.6,279,46436481
+Other Female Genital Organs,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.6,416,24137605
+Other Urinary Organs,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.4,186,46436481
+Pancreas,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,15.3,6751,46436481
+Skin excluding Basal and Squamous,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.8,775,46436481
+Vulva,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.7,420,24137605
+Cranial Nerves and Other Nervous System,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.3,128,46436481
+Kaposi Sarcoma,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.7,318,46436481
+Leukemias,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,10.1,4404,46436481
+Other Digestive Organs,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.9,374,46436481
+Ureter,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.2,101,46436481
+Corpus and Uterus NOS,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,28.0,7495,24137605
+Gallbladder,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.8,759,46436481
+Liver and Intrahepatic Bile Duct,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,9.6,4693,46436481
+Uterus NOS,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.9,493,24137605
+Cranial Nerves and Other Nervous System,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.3,175,59496798
+Kaposi Sarcoma,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.5,247,59496798
+Leukemias,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,10.7,5217,59496798
+Floor of Mouth,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.2,107,59496798
+Gum and Other Mouth,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.0,426,59496798
+Hypopharynx,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.4,186,59496798
+Other Female Genital Organs,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.6,381,29481430
+Oral Cavity and Pharynx,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,8.1,3772,46436481
+Other Endocrine including Thymus,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.0,456,46436481
+Thyroid,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,7.5,3376,46436481
+Kidney and Renal Pelvis,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,17.8,8062,59496798
+Mesothelioma,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.7,265,59496798
+Urinary System,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,28.7,12250,59496798
+Brain and Other Nervous System,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,3.9,1783,46436481
+Lung and Bronchus,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,53.5,23847,46436481
+Ovary,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,7.8,1956,24137605
+Corpus and Uterus NOS,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,27.0,6729,29481430
+Gallbladder,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.7,709,59496798
+Liver and Intrahepatic Bile Duct,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,13.2,5691,59496798
+Oral Cavity and Pharynx,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,7.2,3220,59496798
+Other Endocrine including Thymus,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.6,331,59496798
+Thyroid,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,13.7,7206,59496798
+All Cancer Sites Combined,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,287.2,62684,21796562
+Esophagus,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.0,441,21796562
+Other Leukemias,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.8,166,21796562
+Prostate,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,57.3,5623,10479841
+Rectum and Rectosigmoid Junction,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,9.9,2198,21796562
+All Cancer Sites Combined,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,429.2,194765,46436481
+Esophagus,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,3.5,1598,46436481
+Other Leukemias,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.2,517,46436481
+Prostate,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,169.7,35557,22298876
+Rectum and Rectosigmoid Junction,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,10.4,4716,46436481
+Female Breast,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,101.9,24857,29481430
+Female Genital System,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,50.2,12482,29481430
+Lip,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.2,95,59496798
+Male and Female Breast in situ,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,12.0,5712,59496798
+Penis,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.3,260,30015368
+Peritoneum Omentum and Mesentery,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.4,160,59496798
+Tongue,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.1,924,59496798
+Other Urinary Organs,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.3,100,59496798
+Pancreas,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,11.8,4771,59496798
+Skin excluding Basal and Squamous,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,5.5,2459,59496798
+Vulva,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.7,370,29481430
+Other Biliary,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.3,914,59496798
+Salivary Gland,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.9,416,59496798
+Testis,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,5.3,1735,30015368
+Trachea Mediastinum and Other Respiratory Organs,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.2,103,59496798
+Acute Myeloid,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,3.4,1558,59496798
+Hodgkin Lymphoma,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.3,1270,59496798
+Other Male Genital Organs,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.2,32,30015368
+Respiratory System,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,30.4,11955,59496798
+Retroperitoneum,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.4,216,59496798
+Acute Lymphocytic,2019,Asian/Pacific Islander,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.3,274,21796562
+Acute Lymphocytic,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.0,446,46436481
+Myeloma,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,6.4,2659,59496798
+Oropharynx,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.5,216,59496798
+Other Non-Epithelial Skin,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.0,424,59496798
+Tonsil,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.3,619,59496798
+Male and Female Breast,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,53.9,25011,59496798
+Miscellaneous,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,12.0,4799,59496798
+Brain and Other Nervous System,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,5.2,2598,59496798
+Lung and Bronchus,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,27.5,10682,59496798
+Ovary,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,9.7,2370,29481430
+All Cancer Sites Combined,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,344.8,153267,59496798
+Brain and Other Nervous System,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,6.6,19500,252224952
+Lung and Bronchus,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,53.7,187091,252224952
+Ovary,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,9.8,16104,127256808
+Esophagus,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.8,1168,59496798
+Other Leukemias,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.2,528,59496798
+Prostate,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,84.7,16281,30015368
+Rectum and Rectosigmoid Junction,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,9.9,4613,59496798
+Stomach,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,9.1,3892,59496798
+Male and Female Breast,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,68.6,216782,252224952
+Miscellaneous,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,15.2,50555,252224952
+Stomach,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,5.4,17939,252224952
+Brain,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,6.3,18644,252224952
+Chronic Lymphocytic,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,4.3,14695,252224952
+Digestive System,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,75.3,249905,252224952
+Female Breast,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,130.3,214858,127256808
+Female Genital System,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,50.1,83010,127256808
+Lip,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.5,1522,252224952
+Male and Female Breast in situ,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,15.0,46301,252224952
+Penis,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.9,1270,124968144
+Peritoneum Omentum and Mesentery,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.5,1701,252224952
+Tongue,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,4.1,13877,252224952
+Kidney and Renal Pelvis,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,17.3,56022,252224952
+Mesothelioma,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.8,2641,252224952
+Urinary System,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,37.8,126423,252224952
+Floor of Mouth,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.5,1619,252224952
+Gum and Other Mouth,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.6,5353,252224952
+Hypopharynx,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.5,1758,252224952
+Other Female Genital Organs,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.0,3481,127256808
+Other Urinary Organs,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.4,1288,252224952
+Pancreas,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,13.0,44454,252224952
+Skin excluding Basal and Squamous,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,27.4,87175,252224952
+Vulva,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.8,4915,127256808
+Acute Myeloid,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,4.2,13520,252224952
+Hodgkin Lymphoma,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.6,6819,252224952
+Other Male Genital Organs,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.2,335,124968144
+Respiratory System,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,57.4,199640,252224952
+Retroperitoneum,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.4,1349,252224952
+Myeloma,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,6.0,20310,252224952
+Oropharynx,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.9,3026,252224952
+Other Non-Epithelial Skin,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.7,5464,252224952
+Tonsil,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.5,8359,252224952
+All Sites (comparable to ICD-O-2),2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,431.3,1418098,252224952
+Cervix,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,7.3,9609,127256808
+Larynx,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.8,9879,252224952
+Non-Hodgkin Lymphoma,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,18.7,60969,252224952
+Other Biliary,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.6,5338,252224952
+Salivary Gland,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.2,3947,252224952
+Testis,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,6.5,7733,124968144
+Trachea Mediastinum and Other Respiratory Organs,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.2,507,252224952
+Colon and Rectum,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,35.7,115110,252224952
+Colon excluding Rectum,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,25.0,81198,252224952
+Nasopharynx,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.4,1101,252224952
+Other Oral Cavity and Pharynx,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.1,520,252224952
+Soft Tissue including Heart,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,3.2,9538,252224952
+Urinary Bladder,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,19.6,67190,252224952
+Vagina,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.6,1080,127256808
+Eye and Orbit,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.5,275,59496798
+Nose Nasal Cavity and Middle Ear,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.5,248,59496798
+Pleura,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,Data Suppressed,Data Suppressed,Data Suppressed
+Small Intestine,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.7,732,59496798
+Bones and Joints,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.0,2712,252224952
+Corpus,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,26.7,46335,127256808
+Eye and Orbit,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.9,2742,252224952
+Nose Nasal Cavity and Middle Ear,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.6,2076,252224952
+Pleura,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.0,87,252224952
+Small Intestine,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.4,7695,252224952
+Acute Lymphocytic,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.6,1586,59496798
+Acute Lymphocytic,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.8,4353,252224952
+Other Digestive Organs,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.8,308,59496798
+Ureter,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.3,126,59496798
+Uterus NOS,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.4,333,29481430
+Cranial Nerves and Other Nervous System,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.3,856,252224952
+Kaposi Sarcoma,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.2,531,252224952
+Leukemias,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,13.7,42966,252224952
+Corpus and Uterus NOS,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,27.6,47821,127256808
+Gallbladder,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.9,3134,252224952
+Liver and Intrahepatic Bile Duct,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,7.8,27469,252224952
+Oral Cavity and Pharynx,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,12.3,41082,252224952
+Other Endocrine including Thymus,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.7,2116,252224952
+Thyroid,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,13.6,36951,252224952
+Other Digestive Organs,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.7,2227,252224952
+Ureter,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.6,1923,252224952
+Uterus NOS,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.9,1486,127256808
+All Cancer Sites Combined,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,439.3,1444212,252224952
+Esophagus,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,4.8,16596,252224952
+Other Leukemias,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.4,4602,252224952
+Prostate,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,102.1,172507,124968144
+Rectum and Rectosigmoid Junction,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,10.7,33912,252224952
+Anus Anal Canal and Anorectum,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.0,891,46436481
+Chronic Myeloid,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.6,700,46436481
+Endocrine System,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,8.5,3832,46436481
+Lymphomas,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,15.6,6975,46436481
+Male Genital System,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,172.0,36044,22298876
+Melanomas of the Skin,2019,Black,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.9,386,46436481
+Anus Anal Canal and Anorectum,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.4,610,59496798
+Chronic Myeloid,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.6,756,59496798
+Endocrine System,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,14.3,7537,59496798
+Lymphomas,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,19.2,8648,59496798
+Male Genital System,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,91.4,18308,30015368
+Acute Myeloid,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,4.2,16068,325239182
+Hodgkin Lymphoma,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.5,8525,325239182
+All Cancer Sites Combined,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,438.6,1752735,325239182
+Esophagus,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,4.5,18950,325239182
+All Sites (comparable to ICD-O-2),2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,430.6,1721569,325239182
+Cervix,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,7.5,12795,165096351
+Brain,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,5.8,21461,325239182
+Chronic Lymphocytic,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,4.1,16790,325239182
+Digestive System,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,77.3,310694,325239182
+Female Breast,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,129.7,264121,165096351
+Female Genital System,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,50.0,102962,165096351
+Corpus and Uterus NOS,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,27.7,59450,165096351
+Gallbladder,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.1,4285,325239182
+Acute Lymphocytic,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.7,5330,325239182
+Cranial Nerves and Other Nervous System,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.3,1077,325239182
+Kaposi Sarcoma,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.3,961,325239182
+Bones and Joints,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.0,3357,325239182
+Corpus,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,26.7,57306,165096351
+Eye and Orbit,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.8,3002,325239182
+Floor of Mouth,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.5,1887,325239182
+Gum and Other Mouth,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.6,6458,325239182
+Colon and Rectum,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,36.3,142462,325239182
+Colon excluding Rectum,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,25.4,100339,325239182
+Brain and Other Nervous System,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,6.1,22538,325239182
+Melanomas of the Skin,2019,Hispanic,Male and Female, All Ages,Age-adjusted Rate,Incidence,4.5,2035,59496798
+Hypopharynx,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,0.5,2156,325239182
+Anus Anal Canal and Anorectum,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.1,6893,252224952
+Chronic Myeloid,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.9,5796,252224952
+Endocrine System,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,14.3,39067,252224952
+Lymphomas,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,21.3,67788,252224952
+Male Genital System,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,109.6,181845,124968144
+Melanomas of the Skin,2019,White,Male and Female, All Ages,Age-adjusted Rate,Incidence,25.8,81711,252224952
+Anus Anal Canal and Anorectum,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,2.0,8066,325239182
+Chronic Myeloid,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,1.9,6983,325239182
+Endocrine System,2019,All Races and Ethnicities,Male and Female, All Ages,Age-adjusted Rate,Incidence,13.9,48152,325239182

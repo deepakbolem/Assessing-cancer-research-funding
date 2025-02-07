@@ -1,0 +1,95 @@
+Incidence Rate Report by State
+
+"Ovary (All Stages^), 2018"
+
+"All Races (includes Hispanic), Female, All Ages"
+
+Sorted by Rate
+
+State, FIPS,Met Healthy People Objective of ***?,"Age-Adjusted Incidence Rate([rate note]) - cases per 100,000","Lower 95% Confidence Interval","Upper 95% Confidence Interval","CI*Rank([rank note])","Lower CI (CI*Rank)","Upper CI (CI*Rank)",Average Annual Count,Recent Trend,"Recent 5-Year Trend ([trend note]) in Incidence Rates","Lower 95% Confidence Interval","Upper 95% Confidence Interval"
+"US (SEER+NPCR)(1)",00000,***,9.8 ,9.7, 9.9,N/A , N/A , N/A,19679,falling,-3.5 ,-4.4, -2.5
+"District of Columbia(2)",11001,***,11.7 ,8.4, 15.8,1 , 1 , 50,43,stable,-0.6 ,-2.7, 1.6
+"New Jersey(7)",34000,***,11.5 ,10.7, 12.5,2 , 1 , 16,674,falling,-2.0 ,-2.4, -1.6
+"West Virginia(2)",54000,***,11.5 ,9.6, 13.7,3 , 1 , 39,139,falling,-1.8 ,-2.4, -1.1
+"Oklahoma(2)",40000,***,11 ,9.7, 12.5,4 , 1 , 32,259,falling,-1.4 ,-2.2, -0.6
+"Idaho(7)",16000,***,11 ,9, 13.4,5 , 1 , 43,110,falling,-1.3 ,-2.1, -0.5
+"New York(7)",36000,***,10.8 ,10.2, 11.4,6 , 1 , 21,1347,falling,-1.6 ,-1.9, -1.4
+"Pennsylvania(2)",42000,***,10.8 ,10.1, 11.5,7 , 1 , 23,950,falling,-1.6 ,-2.0, -1.3
+"Florida(2)",12000,***,10.5 ,10, 11.1,8 , 2 , 24,1569,falling,-1.8 ,-2.0, -1.5
+"Wisconsin(2)",55000,***,10.5 ,9.4, 11.7,9 , 1 , 36,383,falling,-2.2 ,-3.0, -1.5
+"Illinois(2)",17000,***,10.4 ,9.7, 11.2,10 , 2 , 28,819,falling,-1.8 ,-2.1, -1.6
+"Colorado(2)",08000,***,10.4 ,9.3, 11.6,11 , 1 , 36,333,falling,-2.4 ,-3.1, -1.8
+"Arkansas(2)",05000,***,10.4 ,9, 12,12 , 1 , 42,203,stable,-0.1 ,-0.9, 0.8
+"Texas(2)",48000,***,10.3 ,9.8, 10.8,13 , 4 , 25,1562,falling,-1.6 ,-1.9, -1.3
+"Vermont(2)",50000,***,10.3 ,7.4, 14,14 , 1 , 50,46,stable,-1.4 ,-3.1, 0.4
+"California(7)",06000,***,10.3 ,9.8, 10.7,15 , 4 , 24,2346,falling,-3.3 ,-5.1, -1.5
+"Oregon(2)",41000,***,10.1 ,8.9, 11.5,16 , 1 , 42,275,falling,-1.8 ,-2.7, -0.9
+"Washington(4)",53000,***,10.1 ,9.2, 11.1,17 , 2 , 37,467,falling,-2.6 ,-3.3, -2.0
+"New Hampshire(2)",33000,***,10 ,8, 12.4,18 , 1 , 49,95,falling,-3.0 ,-4.2, -1.8
+"South Dakota(2)",46000,***,9.9 ,7.2, 13.2,19 , 1 , 50,51,stable,-1.4 ,-2.9, 0.1
+"Massachusetts(7)",25000,***,9.9 ,8.9, 10.9,20 , 3 , 40,447,falling,-2.3 ,-2.8, -1.9
+"Minnesota(2)",27000,***,9.7 ,8.6, 10.8,21 , 4 , 43,330,falling,-2.0 ,-2.4, -1.7
+"Connecticut(7)",09000,***,9.5 ,8.3, 10.9,22 , 3 , 47,232,falling,-4.7 ,-8.0, -1.4
+"Ohio(2)",39000,***,9.4 ,8.7, 10.2,23 , 10 , 41,709,falling,-1.9 ,-2.5, -1.3
+"Hawaii(7)",15000,***,9.4 ,7.3, 11.8,24 , 1 , 50,77,falling,-1.2 ,-1.7, -0.8
+"Georgia(7)",13000,***,9.3 ,8.6, 10.2,25 , 11 , 43,577,falling,-3.0 ,-4.0, -1.9
+"Maryland(2)",24000,***,9.3 ,8.4, 10.4,26 , 7 , 44,372,falling,-1.2 ,-2.0, -0.4
+"Indiana(2)",18000,***,9.3 ,8.4, 10.4,27 , 7 , 45,377,falling,-1.9 ,-2.4, -1.4
+"Virginia(2)",51000,***,9.2 ,8.3, 10.1,28 , 11 , 45,481,falling,-2.2 ,-2.8, -1.5
+"Kansas(2)",20000,***,9.1 ,7.7, 10.7,29 , 3 , 49,160,falling,-1.8 ,-2.5, -1.1
+"Missouri(2)",29000,***,9.1 ,8.1, 10.1,30 , 8 , 47,360,falling,-2.0 ,-2.5, -1.5
+"Utah(7)",49000,***,9.1 ,7.6, 10.8,31 , 3 , 49,132,falling,-1.3 ,-1.7, -0.9
+"Arizona(2)",04000,***,9 ,8.1, 10,32 , 12 , 47,397,falling,-2.1 ,-2.7, -1.6
+"Rhode Island(2)",44000,***,8.9 ,6.8, 11.5,33 , 1 , 50,65,falling,-2.1 ,-3.7, -0.4
+"North Carolina(2)",37000,***,8.9 ,8.1, 9.7,34 , 17 , 46,569,falling,-1.8 ,-2.4, -1.2
+"Alabama(2)",01000,***,8.8 ,7.8, 10,35 , 11 , 48,291,falling,-1.4 ,-2.3, -0.5
+"Tennessee(2)",47000,***,8.6 ,7.7, 9.6,36 , 16 , 49,371,falling,-1.5 ,-2.1, -0.8
+"Michigan(4)",26000,***,8.6 ,7.9, 9.4,37 , 19 , 47,546,falling,-5.9 ,-8.5, -3.1
+"Montana(2)",30000,***,8.5 ,6.3, 11.2,38 , 2 , 50,57,falling,-2.7 ,-4.1, -1.3
+"South Carolina(2)",45000,***,8.5 ,7.5, 9.6,39 , 17 , 49,283,falling,-2.8 ,-3.4, -2.2
+"Iowa(7)",19000,***,8.4 ,7.1, 9.8,40 , 10 , 50,172,falling,-5.9 ,-10.2, -1.4
+"Maine(2)",23000,***,8.4 ,6.4, 10.8,41 , 3 , 50,73,falling,-2.5 ,-3.2, -1.8
+"Nebraska(2)",31000,***,8.2 ,6.5, 10.2,42 , 5 , 50,90,falling,-1.6 ,-2.9, -0.3
+"Louisiana(7)",22000,***,8.2 ,7.1, 9.3,43 , 19 , 50,238,falling,-2.1 ,-2.7, -1.5
+"Wyoming(2)",56000,***,8.1 ,5.3, 12,44 , 1 , 50,28,falling,-2.4 ,-3.8, -0.9
+"Kentucky(7)",21000,***,8 ,7, 9.2,45 , 21 , 50,223,falling,-2.2 ,-2.9, -1.6
+"North Dakota(2)",38000,***,8 ,5.4, 11.5,46 , 1 , 50,33,falling,-3.1 ,-4.2, -1.9
+"Mississippi(2)",28000,***,7.8 ,6.5, 9.2,47 , 17 , 50,144,*,*,*,*
+"Puerto Rico(2)",72001,***,7.8 ,6.6, 9.2,N/A , N/A , N/A,165,stable,0.2 ,-4.1, 4.6
+"New Mexico(7)",35000,***,7.6 ,6.2, 9.3,48 , 17 , 50,102,falling,-1.0 ,-1.4, -0.5
+"Delaware(2)",10000,***,7.4 ,5.4, 9.9,49 , 5 , 50,52,falling,-2.7 ,-4.3, -1.0
+"Alaska(2)",02900,***,6.6 ,4.2, 10,50 , 4 , 50,24,falling,-2.9 ,-4.9, -1.0
+"Nevada(2)",32000,***,* ,*, *,* , * , *,15 or fewer,*,*,*,*
+
+Created by statecancerprofiles.cancer.gov on 10/19/2022 3:45 pm.
+
+State Cancer Registries may provide more current or more local data.
+
+
+Trend
+   Rising when 95% confidence interval of average annual percent change is above 0.
+   Stable when 95% confidence interval of average annual percent change includes 0.
+   Falling when 95% confidence interval of average annual percent change is below 0.
+
+"[rate note] Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The 1969-2018 US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates."
+"[trend note] Incidence data come from different sources. Due to different years of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. Please refer to the source for each area for additional information."
+
+Rates and trends are computed using different standards for malignancy. For more information see malignant.html.
+
+"^ All Stages refers to any stage in the Surveillance, Epidemiology, and End Results (SEER) summary stage [ https://seer.cancer.gov/tools/ssm/ ]."
+"[rank note]Results presented with the CI*Rank statistics help show the usefulness of ranks. For example, ranks for relatively rare diseases or less populated areas may be essentially meaningless because of their large variability, but ranks for more common diseases in densely populated regions can be very useful. More information about methodology can be found on the CI*Rank website."
+*** No Healthy People 2020 Objective for this cancer.
+Healthy People 2020 Objectives [ https://www.healthypeople.gov/ ]provided by the Centers for Disease Control and Prevention [ https://www.cdc.gov ]. 
+
+"* Data has been suppressed to ensure confidentiality and stability of rate estimates.  Counts are suppressed if fewer than 16 records were reported in a specific area-sex-race category. If an average count of 3 is shown, the total number of cases for the time period is 16 or more which exceeds suppression threshold (but is rounded to 3)."
+
+"1 Source: National Program of Cancer Registries [ https://www.cdc.gov/cancer/npcr/index.htm ] and Surveillance, Epidemiology, and End Results [ http://seer.cancer.gov ] SEER*Stat Database (2001-2018) - United States Department of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute. Based on the 2020 submission."
+"2 Source: National Program of Cancer Registries SEER*Stat Database (2001-2018) - United States Department of Health and Human Services, Centers for Disease Control and Prevention (based on the 2020 submission).  [ https://www.cdc.gov/cancer/npcr/index.htm ]"
+"4 Source: National Program of Cancer Registries [ https://www.cdc.gov/cancer/npcr/index.htm ] and Surveillance, Epidemiology, and End Results [ http://seer.cancer.gov ] SEER*Stat Database (2001-2018) - United States Department of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute. Based on the 2020 submission."
+7 Source: SEER November 2020 submission.
+"8 Source: Incidence data provided by the SEER Program. ( http://seer.cancer.gov ) AAPCs are calculated by the Joinpoint Regression Program ( https://surveillance.cancer.gov/joinpoint/ ) and are based on APCs. Data are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modifed by NCI. The 1969-2018 US Population Data ( http://seer.cancer.gov/popdata/ ) File is used with SEER November 2020 data. "
+
+
+"Interpret Rankings provides insight into interpreting cancer incidence statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional cases) has a dramatic effect on the calculated rate."
+
+Data for United States does not include Puerto Rico.
